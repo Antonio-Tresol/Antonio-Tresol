@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Antonio-Tresol
-- 👀 I’m interested in Computer Sciences, quantum Computers, mathemathics in general, artificial intelligence and philosophy.
+- 👀 I’m interested in Computer Sciences, quantum Computers, mathemathics in general, artificial intelligence, mechatronics and philosophy.
 - 🌱 I’m currently learning computer sciences
 - 💞️ I’m looking to learn from this community
 <!---
