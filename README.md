@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Antonio-Tresol
-- 👀 I’m interested in Computer Sciences, quantum Computers, mathemathics in general, artificial intelligence, mechatronics and philosophy.
-- 🌱 I’m currently learning computer sciences
-- 💞️ I’m looking to learn from this community
-
 <h1 align="center">Hi 👋, I'm Antonio-Tresol</h1>
 <h3 align="center">Undergraduate Computer Sciences Student at University of Costa Rica.</h3>
 
