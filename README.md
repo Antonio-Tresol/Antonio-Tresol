@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antonio-Tresol (Badilla-Olivas) </h1>
+<h1 align="center">Hi 👋, I'm Antonio-Tresol </h1>
 <h3 align="center">Undergraduate Computer Sciences Student at University of Costa Rica.</h3>
 
 - 🔭 I’m currently **random walking through ideas as they come**
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Antonio-Tresol](https://github.com/Antonio-Tresol)
 
-- 📝 I've published one paper so far [https://www.proquest.com/docview/2725642664?pq-origsite=gscholar&fromopenview=true](https://www.proquest.com/docview/2725642664?pq-origsite=gscholar&fromopenview=true)
+- 📝 I've published one paper so far (as Antonio Badilla-Olivas) [https://www.proquest.com/docview/2725642664?pq-origsite=gscholar&fromopenview=true](https://www.proquest.com/docview/2725642664?pq-origsite=gscholar&fromopenview=true)
 
 - 📫 How to reach me **anthonny.badilla@ucr.ac.cr**
 
