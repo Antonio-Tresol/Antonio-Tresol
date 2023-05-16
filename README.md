@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antonio-Tresol</h1>
+<h1 align="center">Hi 👋, I'm Antonio-Tresol (Badilla-Olivas) </h1>
 <h3 align="center">Undergraduate Computer Sciences Student at University of Costa Rica.</h3>
 
 - 🔭 I’m currently **random walking through ideas as they come**
