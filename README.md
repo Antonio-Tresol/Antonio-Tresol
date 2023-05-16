@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Antonio-Tresol](https://github.com/Antonio-Tresol)
 
-- 📝 I've published one paper so far (as Antonio Badilla-Olivas) [https://www.proquest.com/docview/2725642664?pq-origsite=gscholar&fromopenview=true](https://www.proquest.com/docview/2725642664?pq-origsite=gscholar&fromopenview=true)
+- 📝 I've participated on one paper so far (as Antonio Badilla-Olivas) [https://www.proquest.com/docview/2725642664?pq-origsite=gscholar&fromopenview=true](https://www.proquest.com/docview/2725642664?pq-origsite=gscholar&fromopenview=true)
 
 - 📫 How to reach me **anthonny.badilla@ucr.ac.cr**
 
