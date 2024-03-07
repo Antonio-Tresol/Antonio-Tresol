@@ -28,7 +28,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Antonio-Tresol/Antonio-Tresol/assets/84429050/815ad79a-f898-4261-8a74-2d6f42067711" alt="rust" width="40" height="40"/> </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/Antonio-Tresol/Antonio-Tresol/assets/84429050/c02bee90-2e91-4d02-8ce9-455c7811bb62" alt="csharp" width="40" height="40"/>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/Antonio-Tresol/Antonio-Tresol/assets/84429050/c02bee90-2e91-4d02-8ce9-455c7811bb62" alt="csharp" width="40" height="40"/>
+
 </p>
 
 
