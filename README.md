@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio-Tresol </h1>
 <h3 align="center">Undergraduate Computer Sciences Student at University of Costa Rica.</h3>
 
-- 🔭 I’m currently **random walking through ideas as they come**
-
-- 👀 I’m interested in Computer Sciences, quantum Computers, mathemathics in general, artificial intelligence, mechatronics, philosophy, game development.
-
-- 🌱 I’m currently learning computer sciences
-
-- 💞️ I’m looking to learn from this community
+- 🔭 I’m currently **developing my skills in Deep Learning, Machine Learning, Data Science, Software Engineering and Game Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Antonio-Tresol](https://github.com/Antonio-Tresol)
 
