@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio Badilla-Olivas (Antonio-Tresol)</h1>
-<h3 align="center"> Computer Scientist and Software Engineer soon to be graduated from University of Costa Rica.</h3>
+<h3 align="center"> Computer Scientist and Software Engineer graduated from University of Costa Rica.</h3>
 
 - 🔭 I enjoy building with and learning about **Deep Learning, Machine Learning, Software Engineering, and Math.**
 
