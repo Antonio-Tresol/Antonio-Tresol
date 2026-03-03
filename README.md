@@ -1,8 +1,8 @@
 ```
  ╭──────────────────────────────────────────────────────────────╮
- │ Antonio Badilla-Olivas (Antonio-Tresol)                     │
+ │ Antonio Badilla-Olivas (Antonio-Tresol)                      │
  │                                                              │
- │ Independent researcher, AI/ML Engineer, and M.Sc. student   │
+ │ Independent researcher, AI/ML Engineer, and M.Sc. student    │
  │ in Computer Science at Universidad de Costa Rica.            │
  ╰──────────────────────────────────────────────────────────────╯
 
