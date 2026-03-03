@@ -12,13 +12,14 @@
 
  > I enjoy learning about AI, software engineering, and math.
 
- > I mostly work in Python and PyTorch is my auto differentiation engine wrapper of choice. 
-   I like C, tolerate C++, and think Rust is cool but it keeps humbling me.
-   Cloud-wise I've mostly work in AWS and Azure.
-   I also have a love-hate relationship with agentic AI SWE.
+ > I mostly work in Python and PyTorch is my autodiff engine
+   of choice. I like C, tolerate C++, and think Rust is cool
+   but it keeps humbling me. Cloud-wise I've mostly worked in
+   AWS and Azure. I also have a love-hate relationship with
+   agentic AI SWE.
 
- > All my projects are here in my GitHub. If you are working in
-   safe and ethical AI, let's connect!
+ > All my projects are here in my GitHub. If you are working
+   in safe and ethical AI, let's connect!
 ```
 
 [Google Scholar](https://scholar.google.com/citations?user=FNKdUJkAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/antonio-badilla-olivas/) | antonio1dbo@gmail.com
