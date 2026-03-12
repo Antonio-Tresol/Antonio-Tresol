@@ -16,7 +16,7 @@
    of choice. I like C, tolerate C++, and think Rust is cool
    but it keeps humbling me. Cloud-wise I've mostly worked in
    AWS and Azure. I also have a love-hate relationship with
-   agentic AI SWE.
+   Agentic SE.
 
  > All my projects are here in my GitHub. If you are working
    in safe and ethical AI, let's connect!
