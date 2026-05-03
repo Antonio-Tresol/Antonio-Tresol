@@ -8,7 +8,7 @@
 
  > I enjoy building intelligent systems and figuring out how to
    make sure they are safe and ethical. I'm interested in
-   mechanistic interpretability, AI alignment, and AI safety.
+   interpretability, AI alignment, and AI safety.
 
  > I enjoy learning about AI, software engineering, and math.
 
@@ -22,4 +22,4 @@
    in safe and ethical AI, let's connect!
 ```
 
-[Google Scholar](https://scholar.google.com/citations?user=FNKdUJkAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/antonio-badilla-olivas/) | antonio1dbo@gmail.com
+[Site](https://antonio-tresol.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=FNKdUJkAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/antonio-badilla-olivas/) | antonio1dbo@gmail.com
