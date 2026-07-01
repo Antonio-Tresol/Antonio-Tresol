@@ -7,16 +7,20 @@
  ╰──────────────────────────────────────────────────────────────╯
 
  > I enjoy building intelligent systems and figuring out how to
-   make sure they are safe and ethical. I'm interested in
+   make sure they are safe, reliable and ethical. I'm interested in
    interpretability, AI alignment, and AI safety.
 
  > I enjoy learning about AI, software engineering, and math.
 
  > I mostly work in Python and PyTorch is my autodiff engine
    of choice. I like C, tolerate C++, and think Rust is cool
-   but it keeps humbling me. Cloud-wise I've mostly worked in
-   AWS and Azure. I also have a love-hate relationship with
-   Agentic SE.
+   but it keeps humbling me. Cloud-wise I've mostly architected
+   in solutions in AWS and Azure.
+   
+ > I also have a love-hate relationship with Agentic SE. I like
+   to think about what does it take to elicit magnifent work from
+   AI while reducing the need from the most scare resource:
+   human attention.
 
  > All my projects are here in my GitHub. If you are working
    in safe and ethical AI, let's connect!
